@@ -8,6 +8,6 @@
 
 Clone o repositorio usando o link abaixo.
 
-'''
-    git clone https://github.com/JohnnyDev2001/fast_zipcode.git
-'''
+```
+git clone https://github.com/JohnnyDev2001/fast_zipcode.git
+```
