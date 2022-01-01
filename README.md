@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/JohnnyDev2001/fast_zipcode/blob/main/image/ceplogo.png?raw=true" width="30%">
+    <a href="https://pypi.org/project/fzip/"><img src="https://github.com/JohnnyDev2001/fast_zipcode/blob/main/image/ceplogo.png?raw=true" width="30%"></a>
 </p>
 <h2 align="center" color="green">Fast_ZipCode</h2>
 
