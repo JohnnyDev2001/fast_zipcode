@@ -9,3 +9,5 @@ setup.py
 Fast_ZipCode.egg-info
 dist
 .pypirc
+fzip.egg-info
+MANIFEST.in
